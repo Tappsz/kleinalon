@@ -1,4 +1,4 @@
-<a href="https:/github.com/kleinalon"><img width="300" align="right" src="https://github.com/kleinalon/kleinalon/blob/main/FJys2k5XsAUbSW7.png?raw=true"></a>
+<a href="kleinalon"><img width="300" align="right" src="https://github.com/kleinalon/kleinalon/blob/main/FJys2k5XsAUbSW7.png?raw=true"></a>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=18&vCenter=true&height=16&lines=Hi%2C+I'm+Alon+and+I'm+a+programmer.;I'm+working+on+new+projects.)
 
