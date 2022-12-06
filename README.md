@@ -2,7 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=18&vCenter=true&height=16&lines=Hi%2C+I'm+Alon+and+I'm+a+programmer.;I'm+working+on+new+projects.)
 
-Hey, I work on new projects and try to code as much.
+Hey, I work on new projects and try to code as much. 💻
 
 For now, I am making posts in different programming languages for beginners and so. if you are interested you can check my [Dev.to Profile](https://dev.to/kleinalon).  You can contact me in discord for all issues, question etc. `Alon#1386`.
 Also I want to mention that I have a Discord Bot Project so check it out if _**🟢 online**_.
