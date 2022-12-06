@@ -14,5 +14,3 @@ Hello, my name is Alon.<br>I am working on new projects.<br>I like studying lang
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/alonklein) 
-
-  
